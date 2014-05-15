@@ -1,0 +1,17 @@
+.details
+    {
+    padding:16px;
+    margin-right: 5px;
+    border: 1px solid grey;
+    -webkit-border-radius: 11px;
+    -moz-border-radius: 11px;
+    border-radius: 11px;
+    background: transparent url(../images/shadow3.png);
+}
+.desc
+    {
+    padding-left:16px;
+    margin-right: 5px;
+    margin-bottom: 1px;
+}
+

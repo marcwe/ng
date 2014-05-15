@@ -1,0 +1,35 @@
+<HTML>
+<HEAD>
+	<TITLE>JavaScript Toolbox - Calendar Popup To Select Date</TITLE>
+	<SCRIPT LANGUAGE="JavaScript" SRC="CalendarPopup_new.js"></SCRIPT>
+	<SCRIPT LANGUAGE="JavaScript">
+	var cal = new CalendarPopup();
+	</SCRIPT>
+	
+	<SCRIPT LANGUAGE="JavaScript" ID="js17">
+var now = new Date();
+var cal17 = new CalendarPopup("testdiv1");
+cal17.addDisabledDates(null,formatDate(now,"yyyy-MM-dd"));
+cal17.addDisabledDates("12/25/2007");
+//cal17.addDisabledDates("Jan 1, 2008",null);
+</SCRIPT>
+</HEAD>
+<BODY>
+
+<FORM NAME="example">
+(View Source of this page to see the example code)<br>
+<INPUT TYPE="text" NAME="date1" VALUE="" SIZE=25>
+<A HREF="#"
+   onClick="cal.select(document.forms['example'].date1,'anchor1','MM/dd/yyyy'); return false;"
+   NAME="anchor1" ID="anchor1">select</A>
+   
+   
+<INPUT TYPE="text" NAME="date17" VALUE="" SIZE=25>
+<A HREF="#" onClick="cal17.select(document.forms['example'].date17,'anchor17','MM/dd/yyyy'); return false;" TITLE="cal17.select(document.forms[0].date17,'anchor17','MM/dd/yyyy'); return false;" NAME="anchor17" ID="anchor17">select</A>   
+   
+   
+   
+</FORM>
+<DIV ID="testdiv1" STYLE="position:absolute;visibility:hidden;background-color:white;layer-background-color:white;"></DIV>
+</BODY>
+</HTML>

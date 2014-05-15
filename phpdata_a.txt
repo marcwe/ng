@@ -1,0 +1,448 @@
+ 07:28:27 PM
+http://www.pcom.edu/General_Information/georgia/DegreePrograms/ga_degree_programs.php??node/394??
+node/394??
+node-394 class=node node-basic-page2 clearfix about=/content/ga-pcom-degree-programs typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/General_Information/PCOM_News/news_php.html??http://www.pcom.edu/General_Information/PCOM_News/news.php??http://www.pcom.edu/General_Information/PCOM_News/press_room/ga_fact_sheet.php??node/414??
+node-414 class=node node-basic-page2 clearfix about=/content/ga-pcom-fact-sheet typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/General_Information/PCOM_News/press_room/philadelphia-press-releases.php??node/482??
+node-482 class=node node-basic-page2 clearfix about=/content/philadelphia-press-releases typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/General_Information/PCOM_News/press_room/georgia-experts-list.php??node/484??
+node-484 class=node node-basic-page2 clearfix about=/content/ga-pcom-experts-list typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/General_Information/PCOM_News/press_room/georgia-press-release.php??node/483??
+node-483 class=node node-basic-page2 clearfix about=/content/ga-pcom-press-release typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/General_Information/PCOM_News/press_room/for_the_media.php??node/380??
+node/380??
+node-380 class=node node-basic-page2 clearfix about=/content/press-room typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/General_Information/PCOM_News/News_items/pharmacy_curriculum.php??node-165 class=node node-basic-page2 clearfix about=/content/pharmacy-curriculum typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/General_Information/PCOM_News/pcom_news_php.html??http://www.pcom.edu/General_Information/Facilities_Campus_Map/facilitiles_campus_map.php??node/441??
+node-441 class=node node-basic-page2 clearfix about=/content/facilities-campus-map typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/General_Information/fact_sheet/fact_sheet.php??node/415??
+node-415 class=node node-basic-page2 clearfix about=/content/pcom-fact-sheet typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/General_Information/PCOM_History/pcom_history.php??node/359??
+node-359 class=node node-basic-page2 clearfix about=/content/pcom-history typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/General_Information/Experts_list/experts_list.php??node/416??
+node-416 class=node node-basic-page2 clearfix about=/content/pcom-experts-list typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/General_Information/Untitled/GADOCourseSequence.php??node/438??
+node-438 class=node node-basic-page2 clearfix about=/content/ga-campus-do-course-sequence-descriptions typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/General_Information/blogger/blogs.php??node/435??
+node/435??
+node-435 class=node node-basic-page2 clearfix about=/content/blogger typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/General_Information/Link/evnts_calendar.php??node/348??
+node-348 class=node node-basic-page2 clearfix about=/content/december-link-calendar typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/upcomingevents.php??node-94 class=node node-basic-page2 clearfix about=/content/upcoming-events typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/phl_prog1.php??http://www.pcom.edu/Alumni_Relations___Development/alum_home.php??node/267??
+node/267??
+node-267 class=node node-basic-page2 clearfix about=/content/alumni-homepage typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/Scholarship_Recipien.php??node-191 class=node node-basic-page2 clearfix about=/content/fund-pcom typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/golf_outing1.php??node-220 class=node node-basic-page2 clearfix about=/content/annual-pcom-golf-classic typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/Giving_Opportunities.php??node/190??
+node-190 class=node node-basic-page2 clearfix about=/content/giving-opportunities typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/publications.php??node/421??
+node-421 class=node node-basic-page2 clearfix about=/content/publications typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/contact_alumni.php??node/430??
+node-430 class=node node-basic-page2 clearfix about=/content/contact-us-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/at_still_Legacy.php??node-191 class=node node-basic-page2 clearfix about=/content/fund-pcom typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/ways_to_give.php??node/419??
+node-419 class=node node-basic-page2 clearfix about=/content/make-gift-today typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/alumni_contact_update_form_2.php??node-191 class=node node-basic-page2 clearfix about=/content/fund-pcom typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/Getting_Involved_.php??node-191 class=node node-basic-page2 clearfix about=/content/fund-pcom typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/welcome.php??node/420??
+node-420 class=node node-basic-page2 clearfix about=/content/welcome typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/Contact_Alumni/Alumni_Mentor_Form.php??node-262 class=node node-basic-page2 clearfix about=/content/alumni-mentor-form-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/annualfund.php??node/191??
+node-191 class=node node-basic-page2 clearfix about=/content/fund-pcom typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/gift_today.php??node/419??
+node-419 class=node node-basic-page2 clearfix about=/content/make-gift-today typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/class_notes.php??node-191 class=node node-basic-page2 clearfix about=/content/fund-pcom typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/upcomingevents_2.php??node-94 class=node node-basic-page2 clearfix about=/content/upcoming-events typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/Alumni_Directories.php??node/428??
+node-428 class=node node-basic-page2 clearfix about=/content/alumni-association-board-directors typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/alum_upcom.php??node-94 class=node node-basic-page2 clearfix about=/content/upcoming-events typeof=sioc:Item foaf:Document>??
+node-134 class=node node-basic-page2 clearfix about=/content/gettin-involved typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/fari.php??node-191 class=node node-basic-page2 clearfix about=/content/fund-pcom typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/phila_sights.php??node-251 class=node node-basic-page2 clearfix about=/content/philadelphia-sightseeing typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/our_alumni.php??node/341??
+node-341 class=node node-basic-page2 clearfix about=/content/our-alumni typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/About_our_Alumni.php??node/429??
+node-429 class=node node-basic-page2 clearfix about=/content/about-our-alumni-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/D_O_Scholarship_Fund.php??node-191 class=node node-basic-page2 clearfix about=/content/fund-pcom typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/Upcoming_Events.php??node-191 class=node node-basic-page2 clearfix about=/content/fund-pcom typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/parent_fund.php??node-191 class=node node-basic-page2 clearfix about=/content/fund-pcom typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/e_newsletter/enews_nov2013.php??node/253??
+node/253??
+node-253 class=node node-basic-page2 clearfix about=/content/enewsletter typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/e_newsletter/enews_letter_wide.php??node-253 class=node node-basic-page2 clearfix about=/content/enewsletter typeof=sioc:Item foaf:Document>??
+node-95 class=node node-basic-page2 clearfix about=/content/phila-progs typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/Giving_Opportunities/west_pa_classroom.php??node/446??
+node-446 class=node node-basic-page2 clearfix about=/content/western-pa-classroom typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/Giving_Opportunities/A_T_Still_Legacy_Society/atstill_legacy_society.php??node/204??
+node-204 class=node node-basic-page2 clearfix about=/content/still-legacy-society typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/Giving_Opportunities/clac_2.php??node/445??
+node-445 class=node node-basic-page2 clearfix about=/content/dr-michael-and-wendy-saltzburg-clinical-learning-assessment-center typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/Giving_Opportunities/D_O_Scholarship_Fund/doscholarship_fund.php??node/431??
+node-431 class=node node-basic-page2 clearfix about=/content/d-o-scholarship-fund typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/Giving_Opportunities/clac_1.php??node/443??
+node-443 class=node node-basic-page2 clearfix about=/content/clinical-learning-center typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/Giving_Opportunities/west_pa_class_2.php??node/447??
+node-447 class=node node-basic-page2 clearfix about=/content/western-pa-classroom-2 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/ccda.php??node-191 class=node node-basic-page2 clearfix about=/content/fund-pcom typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/marcs_header.php??node-211 class=node node-basic-page2 clearfix about=/content/marcs-header typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/About_our_Alumni/about_our_alumni.php??node/429??
+node-429 class=node node-basic-page2 clearfix about=/content/about-our-alumni-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/Golf_Outing.php??node-191 class=node node-basic-page2 clearfix about=/content/fund-pcom typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/jun_13_news.php??node-191 class=node node-basic-page2 clearfix about=/content/fund-pcom typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/Digestonline_b.php??node-191 class=node node-basic-page2 clearfix about=/content/fund-pcom typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/annual_report.php??node/195??
+node/195??
+node-195 class=node node-basic-page2 clearfix about=/content/annual-report-online typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/getting_involved.php??node-134 class=node node-basic-page2 clearfix about=/content/gettin-involved typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Alumni_Relations___Development/alumni_wide.php??node/276??
+node-276 class=node node-basic-page2 clearfix about=/content/alumni-home-wide typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Clinical_Education/Affiliate_Lists/clined_affilates.php??node/331??
+node/331??
+node-331 class=node node-basic-page2 clearfix about=/content/clined-affiliates typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Department_Web_Pages/Department_of_Psychology/Center_for_Brief_The/training_services.php??node/334??
+node/334??
+node-334 class=node node-basic-page2 clearfix about=/content/training-services typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Department_Web_Pages/Department_of_Psychology/Psychology_Faculty/psychology_faculty.php??node-295 class=node node-basic-page2 clearfix about=/content/psychology-department-faculty-staff typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Department_Web_Pages/Department_of_Psychology/Psychology_Faculty/thompson.php??node/332??
+node-332 class=node node-basic-page2 clearfix about=/content/celine-thompson-phd-assistant-professor typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Department_Web_Pages/Department_of_Psychology/Psychology_Faculty/tresco.php??node-132 class=node node-basic-page2 clearfix about=/content/tresco typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Department_Web_Pages/Department_of_Psychology/Psychology_Faculty/glassman.php??node/364??
+node/364??
+node-364 class=node node-basic-page2 clearfix about=/content/scott-glassman-psyd typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Department_Web_Pages/Department_of_Psychology/Psychology_Faculty/terri_erbacher.php??node/453??
+node/453??
+node-453 class=node node-basic-page2 clearfix about=/content/terri-erbacher-psyd typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Department_Web_Pages/Department_of_Psychology/Psychology_Faculty/Elizabeth_A_Gosch/gosch.php??node/365??
+node/365??
+node-365 class=node node-basic-page2 clearfix about=/content/elizabeth-gosch typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Department_Web_Pages/Department_of_Psychology/Friday_Speaker_Series/friday_speaker_series.php??node/179??
+node-179 class=node node-basic-page2 clearfix about=/content/rovinsky-family-lectureship typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Department_Web_Pages/Department_of_Osteopathic_Mani/Evan_Nicholas_DO/evan_nicholas.php??node/387??
+node/387??
+node-387 class=node node-basic-page2 clearfix about=/content/evan-nicholas-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Department_Web_Pages/Department_of_Osteopathic_Mani/omm.php??node/383??
+node/383??
+node-383 class=node node-basic-page2 clearfix about=/content/osteopathic-manipulative-medicine-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Department_Web_Pages/Department_of_Osteopathic_Mani/omm_published_work/omm_published.php??node/386??
+node/386??
+node-386 class=node node-basic-page2 clearfix about=/content/published-work-omm-faculty-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Department_Web_Pages/Department_of_Osteopathic_Mani/darren_mcauley.php??node/388??
+node/388??
+node-388 class=node node-basic-page2 clearfix about=/content/darren-mcauley-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Department_Web_Pages/Department_of_Osteopathic_Mani/OMM_Research/omm_research.php??node/385??
+node/385??
+node-385 class=node node-basic-page2 clearfix about=/content/osteopathic-research-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Department_Web_Pages/Department_of_Osteopathic_Mani/Alexander_Nicholas_D_O/alexander_nicholas.php??node/384??
+node/384??
+node-384 class=node node-basic-page2 clearfix about=/content/alexander-nicholas-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Department_Web_Pages/Department_of_Anatomy/xu/xu.php??node/440??
+node-440 class=node node-basic-page2 clearfix about=/content/xu-mei typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Department_Web_Pages/Department_of_Emergency_Medici/emeregncy_medicine.php??node/382??
+node/382??
+node-382 class=node node-basic-page2 clearfix about=/content/emergency-medicine typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Admissions/adm_FAQs/adm_faq_pharmd.php??node-144 class=node node-basic-page2 clearfix about=/content/adm-faq-pharmd typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Admissions/adm_Upcoming_Events/Georgia_Campus_Upcoming_Events.php??node-170 class=node node-basic-page2 clearfix about=/content/georgia-admissions-events typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Admissions/adm_Upcoming_Events/adm_upcoming_events.php??node-171 class=node node-basic-page2 clearfix about=/content/phila-admissions-events typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Admissions/admissions.php??node/349??
+node/349??
+node-349 class=node node-basic-page2 clearfix about=/content/admissions-phl-atl typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Admissions/adm_app_process/adm_app_process.php??node-300 class=node node-basic-page2 clearfix about=/content/admissions-application-process typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Admissions/adm_app_process/adm_DO/adm_do.php??node/327??
+node-327 class=node node-basic-page2 clearfix about=/content/doctor-osteopathic-medicine-do typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Admissions/adm_app_process/adm_DO/adm_DO_TechStan/adm_do_techstan.php??node/328??
+node-328 class=node node-basic-page2 clearfix about=/content/do-technical-standards-and-professional-expectations typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Admissions/adm_app_process/adm_msclin_hlthpsy/adm_msclin_hlthpsy.php??node/350??
+node/350??
+node-350 class=node node-basic-page2 clearfix about=/content/ms-c-clinical-health-psychology typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Admissions/adm_app_process/adm_cags/adm_cags.php??node-292 class=node node-basic-page2 clearfix about=/content/cags-admissions typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Admissions/adm_app_process/adm_msodl/adm_msodl.php??node-294 class=node node-basic-page2 clearfix about=/content/ms-odl-admissions-page typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Admissions/adm_app_process/adm_doms-organizational.php??node-293 class=node node-basic-page2 clearfix about=/content/doms-organizational-development-leadership-application typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Admissions/adm_app_process/pharmd/adm_app_proc_pharmd.php??node-143 class=node node-basic-page2 clearfix about=/content/pharm-adm-app-process typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/commencement_speaker.php??node/399??
+node/399??
+node-399 class=node node-basic-page2 clearfix about=/content/commencement-speaker-2014 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/ga_pharmd_prgm_14/commence_day.php??node/471??
+node/471??
+node-471 class=node node-basic-page2 clearfix about=/content/graduate-commencement-pharmd typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/ga_pharmd_prgm_14/commencement_speaker.php??node/472??
+node/472??
+node-472 class=node node-basic-page2 clearfix about=/content/pharmd-commencement-speaker-2014 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/ga_pharmd_prgm_14/commencement_dinner_.php??node/473??
+node/473??
+node-473 class=node node-basic-page2 clearfix about=/content/pharmd-commencement-dinner-dance typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/ga_pharmd_prgm_14/kimmel_center.php??node/474??
+node/474??
+node-474 class=node node-basic-page2 clearfix about=/content/pharmd-venue-information typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/ga_pharmd_prgm_14/information_for_grad.php??node/470??
+node/470??
+node-470 class=node node-basic-page2 clearfix about=/content/information-2014-graduates-pharmd typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/ga_pharmd_prgm_14/visit_atlanta.php??node/492??
+node/492??
+node-492 class=node node-basic-page2 clearfix about=/content/suwanee-ga typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/ga_pharmd_prgm_14/contact_us.php??node/477??
+node/477??
+node-477 class=node node-basic-page2 clearfix about=/content/pharmd-grad-contact-us typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/ga_pharmd_prgm_14/graduate_programs_co.php??node/469??
+node/469??
+node-469 class=node node-basic-page2 clearfix about=/content/pharmd-programs-commencement typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/ga_pharmd_prgm_14/commencement_at_a_gl.php??node/478??
+node/478??
+node-478 class=node node-basic-page2 clearfix about=/content/pharmd-commencement-glance typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/ga_pharmd_prgm_14/faculty_participatio.php??node/476??
+node/476??
+node-476 class=node node-basic-page2 clearfix about=/content/pharmd-faculty-participation typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/ga_prgms_09/commencement_speaker.php??node/498??
+node/498??
+node-498 class=node node-basic-page2 clearfix about=/content/do-ms-ga-commencement-speaker-2014 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/ga_prgms_09/visit_atlanta.php??node/492??
+node/492??
+node-492 class=node node-basic-page2 clearfix about=/content/suwanee-ga typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/ga_prgms_09/commencement_at_a_gl.php??node/503??
+node/503??
+node-503 class=node node-basic-page2 clearfix about=/content/ga-do-commencement-glance typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/commencement.php??node/480??
+node/480??
+node-480 class=node node-basic-page2 clearfix about=/content/commencement-main-1 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/phl_grad_prgm_14/graduate_programs_commencement.php??node/396??
+node/396??
+node-396 class=node node-basic-page2 clearfix about=/content/2014-graduate-programs-commencement-philadelphia typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/phl_grad_prgm_14/commence_day.php??node/398??
+node/398??
+node-398 class=node node-basic-page2 clearfix about=/content/graduate-commencement-philadelphia-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/phl_grad_prgm_14/commencement_speaker.php??node/399??
+node/399??
+node-399 class=node node-basic-page2 clearfix about=/content/commencement-speaker-2014 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/phl_grad_prgm_14/kimmel_center.php??node/402??
+node/402??
+node-402 class=node node-basic-page2 clearfix about=/content/kimmel-center-information-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/phl_grad_prgm_14/visit_philadelphia.php??node/403??
+node/403??
+node-403 class=node node-basic-page2 clearfix about=/content/visit-philadelphia-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/phl_grad_prgm_14/information_for_graduates.php??node/397??
+node/397??
+node-397 class=node node-basic-page2 clearfix about=/content/information-graduates-philadelphia-campus-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/phl_grad_prgm_14/commencement_at_a_glance.php??node/407??
+node/407??
+node-407 class=node node-basic-page2 clearfix about=/content/commencement-glance-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/phl_grad_prgm_14/contact_us.php??node/406??
+node/406??
+node-406 class=node node-basic-page2 clearfix about=/content/contact-us typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/phl_grad_prgm_14/faculty_participation.php??node/408??
+node/408??
+node-408 class=node node-basic-page2 clearfix about=/content/faculty-participation-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/commenc/phl_grad_prgm_14/commencement_dinner_dance.php??node/401??
+node/401??
+node-401 class=node node-basic-page2 clearfix about=/content/commencement-dinner-dance-drexelbrook-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Student_Life/divers_1.php??node/172??
+node-172 class=node node-basic-page2 clearfix about=/content/office-diversity-and-compliance-welcome typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Student_Life/Student_Affairs_Main/student_affairs_main.php??node-283 class=node node-basic-page2 clearfix about=/content/student-affairs-main typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Student_Life/Student_Affairs_Main/Welcome_from_the_SGA.php??node/404??
+node/404??
+node-404 class=node node-basic-page2 clearfix about=/content/student-government-association typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Student_Life/Student_Affairs_Main/NewStudentOrientation.php??node/497??
+node/497??
+node-497 class=node node-basic-page2 clearfix about=/content/new-student-orientation typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Student_Life/divers_2.php??node/173??
+node-173 class=node node-basic-page2 clearfix about=/content/office-diversity-and-compliance typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Student_Life/divers_3.php??node/174??
+node-174 class=node node-basic-page2 clearfix about=/content/office-diversity-and-compliance-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/targeted/Alumni_and_Friends/phl_prog1.php??node-95 class=node node-basic-page2 clearfix about=/content/phila-progs typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/targeted/Alumni_and_Friends/ga_prog1.php??node-96 class=node node-basic-page2 clearfix about=/content/ga-prog typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Continuing_Education/CME_2013_2014/omt_office_practice.php??node/417??
+node/417??
+node/417??
+node-417 class=node node-basic-page2 clearfix about=/content/omt-office-practice-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Continuing_Education/CME_2013_2014/pediatric.php??node/356??
+node/356??
+node/356??
+node-356 class=node node-basic-page2 clearfix about=/content/pediatric-medicine-2014 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Continuing_Education/CME_2013_2014/spring_med.php??node/452??
+node/452??
+node/452??
+node-452 class=node node-basic-page2 clearfix about=/content/spring-family-medicine-2013 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Continuing_Education/CME_2013_2014/anesthesia.php??node/212??
+node/212??
+node/212??
+node-212 class=node node-basic-page2 clearfix about=/content/anesthesia-review-2013 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Continuing_Education/CME_2013_2014/21stAnnualFamilyWeekendSeminar.php??node/463??
+node/463??
+node/463??
+node-463 class=node node-basic-page2 clearfix about=/content/21st-annual-family-weekend-seminar typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Continuing_Education/CME_2013_2014/emergency_med.php??node/357??
+node/357??
+node/357??
+node-357 class=node node-basic-page2 clearfix about=/content/advanced-medicine-2014 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Continuing_Education/CME_2013_2014/Forensic_Medicine_2013.php??node-270 class=node node-basic-page2 clearfix about=/content/forensic-med-2013 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Continuing_Education/CME_2013_2014/calendar_13_14.php??node-213 class=node node-basic-page2 clearfix about=/content/cme-2013-14-calendar typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Continuing_Education/CME_2013_2014/omm_georgia.php??node/343??
+node/343??
+node/343??
+node-343 class=node node-basic-page2 clearfix about=/content/omm-cme-georgia typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Continuing_Education/welcome.php??node-223 class=node node-basic-page2 clearfix about=/content/cme-welcome-letter typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Administration/Employment_Opportunities/job_lst_phl.php??http://www.pcom.edu/Administration/Employment_Opportunities/job_lst_ga.php??http://www.pcom.edu/Administration/Employment_Opportunities/job_lst_ga_2.php??http://www.pcom.edu/Administration/administration.php??node/390??
+node/390??
+node-390 class=node node-basic-page2 clearfix about=/content/administration-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Administration/Administrative_Departments/Safety___Security/safety_and_security.php??node/391??
+node/391??
+node-391 class=node node-basic-page2 clearfix about=/content/security-and-public-safety typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Administration/Administrative_Departments/Safety___Security/safety_and_securit_data.php??node/392??
+node/392??
+node-392 class=node node-basic-page2 clearfix about=/content/security-and-public-safety-data typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Administration/Administrative_Departments/administrative_departments.php??node/381??
+node/381??
+node-381 class=node node-basic-page2 clearfix about=/content/administrative-departments-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Administration/Administrative_Departments/Bursar_s_Office/ins.php??node/99??
+node-99 class=node node-basic-page2 clearfix about=/content/insurance typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Administration/Administrative_Departments/Bursar_s_Office/tuition.php??node/494??
+node-494 class=node node-basic-page2 clearfix about=/content/bursar-office-tuition-phl-2013 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Administration/Administrative_Departments/Bursar_s_Office/tuition_atl_current.php??node/496??
+node-496 class=node node-basic-page2 clearfix about=/content/bursar-office-tuition-ga-2013 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Administration/Administrative_Departments/Bursar_s_Office/tuition_atl_future.php??node/506??
+node-506 class=node node-basic-page2 clearfix about=/content/bursar-office-tuition-ga-2014-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Administration/Administrative_Departments/Bursar_s_Office/tuition_phl_future.php??node/507??
+node-507 class=node node-basic-page2 clearfix about=/content/bursar-office-tuition-phl-2014-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Administration/Administrative_Departments/MIS/Who_We_Are/Who_We_Are.php??node/400??
+node/400??
+node-400 class=node node-basic-page2 clearfix about=/content/mis-who-we-are typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Administration/Administrative_Departments/Marketing_and_Communications/Marketing_and_Communications.php??node-297 class=node node-basic-page2 clearfix about=/content/marketing-communications typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Graduate_Medical_Education/PCOM_MEDNet/pcom_mednet.php??node/360??
+node-360 class=node node-basic-page2 clearfix about=/content/pcom-mednet typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/School_Psychology_Programs/pcom_psuAbington.php??node/373??
+node/373??
+node-373 class=node node-basic-page2 clearfix about=/content/pcom-psu-abington typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/School_Psychology_Programs/school_psychology.php??node-175 class=node node-basic-page2 clearfix about=/content/school-psychology typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/School_Psychology_Programs/EdS_in_School_Psychology/eds_landing.php??node-115 class=node node-basic-page2 clearfix about=/content/eds-landing typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/aca_psyc_cchp/MS_C&CHP_General_Program_Overview.php??node/367??
+node/367??
+node-367 class=node node-basic-page2 clearfix about=/content/ms-c-chp-general-program-overview typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/aca_psyc_cchp/MS_in_C&CHP_Field_Experience.php??node/371??
+node/371??
+node-371 class=node node-basic-page2 clearfix about=/content/ms-cchp-field-experience typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/aca_psyc_cchp/aca_psyc_cchp.php??node/152??
+node-152 class=node node-basic-page2 clearfix about=/content/master-science-mental-health-counseling typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/aca_psyc_cchp/MS_CHP_Program_Learning_Goals.php??node/369??
+node/369??
+node-369 class=node node-basic-page2 clearfix about=/content/ms-chp-program-learning-goals typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/aca_psyc_cchp/cchp.php??node/378??
+node/378??
+node-378 class=node node-basic-page2 clearfix about=/content/cchp-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/aca_psyc_cchp/MS_CHP_course_sequ.php??node/370??
+node/370??
+node-370 class=node node-basic-page2 clearfix about=/content/ms-chp-course-sequ typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/aca_psyc_cchp/MS_C_CHP_FAQ.php??node/372??
+node/372??
+node-372 class=node node-basic-page2 clearfix about=/content/ms-c-chp-faq typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/aca_psyc_cchp/MS_CHP_Program_Mission.php??node/368??
+node/368??
+node-368 class=node node-basic-page2 clearfix about=/content/ms-chp-program-mission typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/aca_psych.php??node/374??
+node/374??
+node-374 class=node node-basic-page2 clearfix about=/content/aca-psych typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/Diversity/multicultural_courses.php??node/426??
+node/426??
+node-426 class=node node-basic-page2 clearfix about=/content/multicultural-courses typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/Diversity/caps.php??node/424??
+node/424??
+node-424 class=node node-basic-page2 clearfix about=/content/culturally-aware-psychology-students typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/Diversity/diversity_mission.php??node/423??
+node/423??
+node-423 class=node node-basic-page2 clearfix about=/content/diversity-mission-psyd typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/Diversity/2013_caps_conf.php??node/425??
+node/425??
+node-425 class=node node-basic-page2 clearfix about=/content/2013-annual-diversity-conference typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/Diversity/2014_caps_conf.php??node/427??
+node/427??
+node-427 class=node node-basic-page2 clearfix about=/content/2014-caps-conference typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/New_Pages_for_Collag/Psychology_Home_Page.php??node/376??
+node/376??
+node-376 class=node node-basic-page2 clearfix about=/content/psychology-home-page typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/CAGS/cags.php??node-178 class=node node-basic-page2 clearfix about=/content/cags-general-page typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/cags-general-page.php??node-178 class=node node-basic-page2 clearfix about=/content/cags-general-page typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/odl-program-progression-v1.php??node-148 class=node node-basic-page2 clearfix about=/content/odl-program-progression-v1 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/odl-competencies-0.php??node-157 class=node node-basic-page2 clearfix about=/content/odl-competencies-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/odl-mission-goals-v2.php??node-146 class=node node-basic-page2 clearfix about=/content/odl-mission-goals-v2 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/top_odl-landing.php??node-154 class=node node-basic-page2 clearfix about=/content/odl-landing-page typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/odl-faqs.php??node-141 class=node node-basic-page2 clearfix about=/content/odl-faqs typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/cags-admissions.php??node-292 class=node node-basic-page2 clearfix about=/content/cags-admissions typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/doms-organizational-development-leadership-application.php??node-293 class=node node-basic-page2 clearfix about=/content/doms-organizational-development-leadership-application typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/odl-landing.php??node-154 class=node node-basic-page2 clearfix about=/content/odl-landing-page typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/odl-course-sequence-descriptions-v2.php??node-133 class=node node-basic-page2 clearfix about=/content/odl-course-sequence-descriptions-v2 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/doms-organizational-development-leadership.php??node-127 class=node node-basic-page2 clearfix about=/content/doms-organizational-development-leadership typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/odlalumresources.php??node-119 class=node node-basic-page2 clearfix about=/content/odlalumresources typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/admissions-odl-faq.php??node-299 class=node node-basic-page2 clearfix about=/content/admissions-odl-faq typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/ODL_Faculty.php??node-265 class=node node-basic-page2 clearfix about=/content/odl-faculty-staff-0 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/marcs_header.php??node-211 class=node node-basic-page2 clearfix about=/content/marcs-header typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/ms-biomedical-sciences-ol-v2.php??node-147 class=node node-basic-page2 clearfix about=/content/ms-biomedical-sciences-ol-v2 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/ms-odl-admissions-page.php??node-294 class=node node-basic-page2 clearfix about=/content/ms-odl-admissions-page typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/cags-odl-v2.php??node-153 class=node node-basic-page2 clearfix about=/content/cags-odl-v2 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/MS_in_ODL/ms-organizational-development-leadership.php??node-158 class=node node-basic-page2 clearfix about=/content/ms-organizational-development-leadership typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_psych/PsyD_in_Clinical_Psychology/psyd_in_clinical_psychology.php??node-151 class=node node-basic-page2 clearfix about=/content/doctor-psychology-psyd-clinical-psychology typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_biomed/aca_biomed.php??node/176??
+node-176 class=node node-basic-page2 clearfix about=/content/biomedical-sciences typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_biomed/aca_biomed_course_seq.php??node/412??
+node-412 class=node node-basic-page2 clearfix about=/content/ms-biomedical-sciences-course-sequence-descriptions-1 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/grid.php??node-139 class=node node-basic-page2 clearfix about=/content/pharm-course-grid-kim typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/pharmacy_faculty_staff.php??node-136 class=node node-basic-page2 clearfix about=/content/pharmacy-faculty-staff typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/pharmacy_accreditation.php??node-160 class=node node-basic-page2 clearfix about=/content/pharmacy-accreditation typeof=sioc:Item foaf:Document>??
+node-basic-page2 clearfix id=node-160 thmr=thmr_12 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/pharmacy_curriculum.php??node-165 class=node node-basic-page2 clearfix about=/content/pharmacy-curriculum typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/pharmacy_updates.php??node-161 class=node node-basic-page2 clearfix about=/content/pharmacy-updates typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/progression.php??node-142 class=node node-basic-page2 clearfix about=/content/pharm-progression typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/faculty/deimling.php??node-316 class=node node-basic-page2 clearfix about=/content/deimling-michael-j typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/faculty/Wickman.php??node-323 class=node node-basic-page2 clearfix about=/content/wickman-julie typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/faculty/andres.php??node-269 class=node node-basic-page2 clearfix about=/content/andres-jennifer typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/faculty/chan.php??node-285 class=node node-basic-page2 clearfix about=/content/chan-bonnie typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/faculty/pharmacy_faculty_t.php??node/450??
+node/450??
+node-450 class=node node-basic-page2 clearfix about=/content/pharmacy-faculty-staff-mw-only typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/faculty/pharmacy_faculty_j.php??node/451??
+node/451??
+node-451 class=node node-basic-page2 clearfix about=/content/pharmacy-faculty-staff-mw-only-java typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/faculty/Bai.php??node-315 class=node node-basic-page2 clearfix about=/content/bai-yun typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/faculty/Smallwood.php??node-320 class=node node-basic-page2 clearfix about=/content/smallwood-gregory typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/faculty/Allen.php??node-290 class=node node-basic-page2 clearfix about=/content/allen-shari typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/faculty/Sharma.php??node-268 class=node node-basic-page2 clearfix about=/content/sharma-avadhesh-c typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/faculty/bhave.php??node-291 class=node node-basic-page2 clearfix about=/content/bhave-vishakha typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/faculty/Ghilzai.php??node-329 class=node node-basic-page2 clearfix about=/content/ghilzai-naushad-k typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/faculty/Lee.php??node-271 class=node node-basic-page2 clearfix about=/content/lee-michael-j typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/faculty/okamoto.php??node-317 class=node node-basic-page2 clearfix about=/content/okamoto-mark typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/faq.php??node-144 class=node node-basic-page2 clearfix about=/content/adm-faq-pharmd typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/pharmacy_student_alumni_resources.php??node-163 class=node node-basic-page2 clearfix about=/content/pharmacy-student-alumni-resources typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/message_from_the_dean.php??node-162 class=node node-basic-page2 clearfix about=/content/pharmacy-deans-message typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/accreditation.php??node-160 class=node node-basic-page2 clearfix about=/content/pharmacy-accreditation typeof=sioc:Item foaf:Document>??
+node-basic-page2 clearfix id=node-160 thmr=thmr_12 typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/pharmacy_preceptor_resources.php??node-166 class=node node-basic-page2 clearfix about=/content/pharmacy-preceptor-resources typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/pharmacy.php??node-150 class=node node-basic-page2 clearfix about=/content/school-pharmacy-landing-page typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/pharmacy_mission_goals.php??node-164 class=node node-basic-page2 clearfix about=/content/pharmacy-mission-goals typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/faculty.php??node-136 class=node node-basic-page2 clearfix about=/content/pharmacy-faculty-staff typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pharmd/pharm_course_grid_kim.php??node-139 class=node node-basic-page2 clearfix about=/content/pharm-course-grid-kim typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_do/Stipends_Scholarships.php??http://www.pcom.edu/Academic_Programs/aca_do/joint_dophd.php??node/340??
+node/340??
+node-340 class=node node-basic-page2 clearfix about=/content/program-summary-joint-do-phd-program typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_do/admissions_dophd.php??node/336??
+node-336 class=node node-basic-page2 clearfix about=/content/admission-joint-dophd-program typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_do/Academic_Requirements1.php??http://www.pcom.edu/Academic_Programs/aca_do/academic_requirements.php??node/337??
+node/337??
+node-337 class=node node-basic-page2 clearfix about=/content/academic-requirements-joint-do-phd-program typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_do/Credits_Waivers.php??node/338??
+node/338??
+node-338 class=node node-basic-page2 clearfix about=/content/credits-and-waivers-joint-do-phd-program typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_do/do_ms_odl.php??node-127 class=node node-basic-page2 clearfix about=/content/doms-organizational-development-leadership typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_do/do_program.php??node-159 class=node node-basic-page2 clearfix about=/content/doctor-osteopathic-medicine typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_do/DOCourseSequence.php??node/437??
+node-437 class=node node-basic-page2 clearfix about=/content/pa-campus-do-course-sequence-descriptions typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_do/curriculum_dophd.php??node/335??
+node-335 class=node node-basic-page2 clearfix about=/content/curriculum-timeline-joint-do-phd-program typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_do/Educational_Objectives.php??node/339??
+node/339??
+node-339 class=node node-basic-page2 clearfix about=/content/educational-objectives-do-phd-program typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/academic_programs.php??node/393??
+node/393??
+node-393 class=node node-basic-page2 clearfix about=/content/academic-programs typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pa/Degree_Programs_Physician_Assi/pa_course_grid.php??node/442??
+node-442 class=node node-basic-page2 clearfix about=/content/physician-assistant-course-sequence-descriptions typeof=sioc:Item foaf:Document>??
+http://www.pcom.edu/Academic_Programs/aca_pa/aca_pa.php??node/377??
+node/377??
+node-377 class=node node-basic-page2 clearfix about=/content/aca-pa typeof=sioc:Item foaf:Document>??
